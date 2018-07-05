@@ -15,6 +15,8 @@
   8. Keys are unique; inserting duplicates will silently fail
    */
 
+// NOTE TO READERS: Remove and part of Insert are incomplete at this time and will be revisited in the near future
+
 
 
 #include <iostream>
